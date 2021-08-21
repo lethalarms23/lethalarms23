@@ -1,4 +1,4 @@
-## LethalArms / MrDrako
+## LethalArms
  <div>
   <a href="https://github.com/lethalarms23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lethalarms23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
