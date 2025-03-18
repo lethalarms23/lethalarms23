@@ -20,7 +20,7 @@
 
   ## LethalProjects
 
-  <a href = "https://sites.google.com/view/lethalprojects/info"><img src="https://media.discordapp.net/attachments/560511706795868173/1351694623579574353/LethalProjects_1024x1024.png?ex=67db4f37&is=67d9fdb7&hm=50967180232717cf8103e6b8e0c5663104276348be46b396cbed10bc08755790&=&format=webp&quality=lossless&width=350&height=350" target="_blank"></a>
+  <a href = "https://sites.google.com/view/lethalprojects"><img src="https://media.discordapp.net/attachments/560511706795868173/1351694623579574353/LethalProjects_1024x1024.png?ex=67db4f37&is=67d9fdb7&hm=50967180232717cf8103e6b8e0c5663104276348be46b396cbed10bc08755790&=&format=webp&quality=lossless&width=350&height=350" target="_blank"></a>
   
   ## Links
  
